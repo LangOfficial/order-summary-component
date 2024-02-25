@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  @apply rounded-lg py-4 text-sm cursor-pointer tracking-wider w-full
+}
